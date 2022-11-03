@@ -4,8 +4,8 @@ import Cabecalho from "../components/Cabecalho";
 export default function Exemplo() {
     return (
         <>
-        <Cabecalho />
-        <Cabecalho />
+        <Cabecalho titulo="Next.js & React"/>
+        <Cabecalho titulo="Aprendendo Next na prática"/>
         </>
     )
 }
